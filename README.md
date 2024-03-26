@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **marcosoftn1@gmail.com**
 
-- 👨‍💻 All of my projects are available at [troopl.com/wilber-rp](troopl.com/wilber-rp)
+- 👨‍💻 All of my projects are available at [https://troopl.com/wilber-rp](https://troopl.com/wilber-rp)
 
 - ⚡ Fun fact **My greatest solutions arise when I'm in the shower**
 
