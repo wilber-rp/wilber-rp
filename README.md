@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos Flach</h1>
 <h3 align="center">An eternal passionate tech enthusiast</h3>
 
-- 🔭 I’m currently working on [Workando](https://workando-4017206c08ac.herokuapp.com/users/sign_in)
+- 🔭 I’m currently working on [Manager](https://manager.azcorp.tech), D3, [PedidosON](https://pedidos.flororquideanegra.com.br)
 
 - 📫 How to reach me **marcosoftn1@gmail.com**
 
